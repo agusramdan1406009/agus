@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AgusRamdanOptionMenu.iml" filepath="$PROJECT_DIR$/AgusRamdanOptionMenu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AgusRamdanOptionMenuTIB.iml" filepath="$PROJECT_DIR$/AgusRamdanOptionMenuTIB.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/optionmenu.iml" filepath="$PROJECT_DIR$/optionmenu.iml" />
     </modules>
